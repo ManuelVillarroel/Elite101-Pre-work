@@ -1,2 +1,2 @@
 # Elite101Projects
-contains all the projects worked on for Elite101
+This file only contains the Code2College Elite101 pre-work
